@@ -1,3 +1,9 @@
 # sass-utility
 
-Basic SCSS classes that I use in every project
+Basic SCSS classes for every project
+
+
+## To build project
+`gem install compass-import-once`
+`./build.sh`
+
