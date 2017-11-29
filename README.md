@@ -5,7 +5,7 @@ File defining common constants and utility classes
 
 Install
 -------
-`yarn add web-scss-utility`
+`yarn add web-sass-utility`
 
 
 Usage
