@@ -1,5 +1,8 @@
 # sass-utility
 
+File defining common constants and utility classes
+
+
 Install
 -------
 `yarn add web-scss-utility`
@@ -7,7 +10,7 @@ Install
 
 Usage
 -----
-@import '@web-scss-utility/scss/utility.scss';
+`@import '@web-scss-utility/scss/utility.scss';`
 
 
 Development
