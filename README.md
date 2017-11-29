@@ -1,9 +1,15 @@
 # sass-utility
 
-Basic SCSS classes for every project
+Install
+-------
+`yarn add web-scss-utility`
 
 
-## To build project
-- `sudo gem install compass-import-once`
-- `./build.sh`
+Usage
+-----
+@import '@web-scss-utility/scss/utility.scss';
 
+
+Development
+-----------
+After changes in scss/utility.scss run build by `grunt`.
