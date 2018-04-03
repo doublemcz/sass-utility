@@ -1,4 +1,4 @@
-@each $px in 0 4 5 8 10 15 16 20 24 30 32 40 50 75 100 200 300 {
+@each $px in 0 1 2 3 4 5 8 10 15 16 20 24 30 32 40 50 75 100 200 300 {
   /** Padding **/
   .p-#{$px} { padding: #{$px}px }
   .pt-#{$px} { padding-top: #{$px}px }
