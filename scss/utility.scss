@@ -12,6 +12,9 @@
   /** Height **/
   .height-#{$px} { height: #{$px}px }
   .min-height-#{$px} { min-height: #{$px}px }
+
+  /** Border radius **/
+  .radius-#{$px} { border-radius: #{$px}px }
 }
 
 

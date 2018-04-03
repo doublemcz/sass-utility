@@ -25,6 +25,10 @@
 .min-height-0 {
   min-height: 0px; }
 
+/** Border radius **/
+.radius-0 {
+  border-radius: 0px; }
+
 /** Padding **/
 .p-4 {
   padding: 4px; }
@@ -51,6 +55,10 @@
 
 .min-height-4 {
   min-height: 4px; }
+
+/** Border radius **/
+.radius-4 {
+  border-radius: 4px; }
 
 /** Padding **/
 .p-5 {
@@ -79,6 +87,10 @@
 .min-height-5 {
   min-height: 5px; }
 
+/** Border radius **/
+.radius-5 {
+  border-radius: 5px; }
+
 /** Padding **/
 .p-8 {
   padding: 8px; }
@@ -105,6 +117,10 @@
 
 .min-height-8 {
   min-height: 8px; }
+
+/** Border radius **/
+.radius-8 {
+  border-radius: 8px; }
 
 /** Padding **/
 .p-10 {
@@ -133,6 +149,10 @@
 .min-height-10 {
   min-height: 10px; }
 
+/** Border radius **/
+.radius-10 {
+  border-radius: 10px; }
+
 /** Padding **/
 .p-15 {
   padding: 15px; }
@@ -159,6 +179,10 @@
 
 .min-height-15 {
   min-height: 15px; }
+
+/** Border radius **/
+.radius-15 {
+  border-radius: 15px; }
 
 /** Padding **/
 .p-16 {
@@ -187,6 +211,10 @@
 .min-height-16 {
   min-height: 16px; }
 
+/** Border radius **/
+.radius-16 {
+  border-radius: 16px; }
+
 /** Padding **/
 .p-20 {
   padding: 20px; }
@@ -213,6 +241,10 @@
 
 .min-height-20 {
   min-height: 20px; }
+
+/** Border radius **/
+.radius-20 {
+  border-radius: 20px; }
 
 /** Padding **/
 .p-24 {
@@ -241,6 +273,10 @@
 .min-height-24 {
   min-height: 24px; }
 
+/** Border radius **/
+.radius-24 {
+  border-radius: 24px; }
+
 /** Padding **/
 .p-30 {
   padding: 30px; }
@@ -267,6 +303,10 @@
 
 .min-height-30 {
   min-height: 30px; }
+
+/** Border radius **/
+.radius-30 {
+  border-radius: 30px; }
 
 /** Padding **/
 .p-32 {
@@ -295,6 +335,10 @@
 .min-height-32 {
   min-height: 32px; }
 
+/** Border radius **/
+.radius-32 {
+  border-radius: 32px; }
+
 /** Padding **/
 .p-40 {
   padding: 40px; }
@@ -321,6 +365,10 @@
 
 .min-height-40 {
   min-height: 40px; }
+
+/** Border radius **/
+.radius-40 {
+  border-radius: 40px; }
 
 /** Padding **/
 .p-50 {
@@ -349,6 +397,10 @@
 .min-height-50 {
   min-height: 50px; }
 
+/** Border radius **/
+.radius-50 {
+  border-radius: 50px; }
+
 /** Padding **/
 .p-75 {
   padding: 75px; }
@@ -375,6 +427,10 @@
 
 .min-height-75 {
   min-height: 75px; }
+
+/** Border radius **/
+.radius-75 {
+  border-radius: 75px; }
 
 /** Padding **/
 .p-100 {
@@ -403,6 +459,10 @@
 .min-height-100 {
   min-height: 100px; }
 
+/** Border radius **/
+.radius-100 {
+  border-radius: 100px; }
+
 /** Padding **/
 .p-200 {
   padding: 200px; }
@@ -430,6 +490,10 @@
 .min-height-200 {
   min-height: 200px; }
 
+/** Border radius **/
+.radius-200 {
+  border-radius: 200px; }
+
 /** Padding **/
 .p-300 {
   padding: 300px; }
@@ -456,6 +520,10 @@
 
 .min-height-300 {
   min-height: 300px; }
+
+/** Border radius **/
+.radius-300 {
+  border-radius: 300px; }
 
 .text-xs-left {
   text-align: left; }
